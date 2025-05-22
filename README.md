@@ -1,5 +1,5 @@
 # RockPaperScissorGame
-´´´java
+```java
 package pptemingles;
 
 import java.util.Scanner;
@@ -76,4 +76,4 @@ public class PPTemIngles {
                 System.out.println("DRAWS: " + empates);
     }
     }
-´´´
+```
