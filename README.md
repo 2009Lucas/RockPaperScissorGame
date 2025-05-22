@@ -4,10 +4,6 @@ package pptemingles;
 
 import java.util.Scanner;
 
-/**
- *
- * @author aluno.saolucas
- */
 public class PPTemIngles {
 
     /**
